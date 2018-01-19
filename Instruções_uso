@@ -1,5 +1,5 @@
 BUSCA POR CNPJ, USAR O MÉTODO HTTP GET COM O LINK:
-http://localhost:8080/cliente/12345678911
+http://localhost:8080/cliente/12345678910234
 
 BUSCA TODOS, USAR O MÉTODO HTTP GET COM O LINK:
 http://localhost:8080/clientes
