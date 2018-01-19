@@ -23,12 +23,12 @@ http://localhost:8080/cliente
 ALTERAR, USAR O MÉTODO HTTP PUT COM O LINK E O SEGUINTE JSON ABAIXO:
 http://localhost:8080/cliente
 {
-	"id": 3,
-	"nome": "Tech Solutions",
-	"cnpj": "01234567891054",
-	"endereco": {
-		"bairro": "Bessa",
-		"rua": "Walter Fernandes de Brandão",
-		"numero": 645
-	}
+  "id": 3,
+  "nome": "Tech Solutions",
+  "cnpj": "01234567891054",
+  "endereco": {
+   "bairro": "Bessa",
+   "rua": "Walter Fernandes de Brandão",
+   "numero": 645
+  }
 }
